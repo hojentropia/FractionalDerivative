@@ -12,3 +12,4 @@ To calculate the minimum coefficient d, we will use the Augmented Dickey-Fuller 
 
 O teste pode ser interpretado pelo  **p-value**. Um valor p abaixo de um limite 5% definido está sugerindo sugere que rejeitamos a hipótese nula (estacionário).
 
+![Result](https://raw.githubusercontent.com/hojentropia/FractionalDerivative/main/graph.png)
